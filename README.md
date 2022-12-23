@@ -2,7 +2,7 @@
       
 
   ## Description
-  This Professional ReadMe Guide is used to easily make a fill out a README.md file for mostly any application
+  This Professional ReadMe Guide is used to easily make a fill out a README.md file for mostly any application.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,20 +13,20 @@
   - [Questions](#questions)
 
   ## Installation
-  You download the applicaiton then run NPM i
+  You download the applicaiton then run NPM i.
 
   ## Usage
-  You type 'node index.js' in the terminal for the application then answer the questions in the terminal
+  You type 'node index.js' in the terminal for the application then answer the questions in the terminal.
 
   ## Credits
-  The Badges are from https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+  The Badges are from https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba.
 
   ## License
     The license this application is covered under is MIT
     You can find more information on the license at https://choosealicense.com/licenses/mit/
 
   ## Tests
-  currently there are no tests
+  currently there are no tests.
 
   ---
   ## Questions

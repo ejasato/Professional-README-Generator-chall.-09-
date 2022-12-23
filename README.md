@@ -17,6 +17,7 @@
 
   ## Usage
   You type 'node index.js' in the terminal for the application then answer the questions in the terminal.
+  URL for the walk through is https://drive.google.com/file/d/1iwFYnfKf8XnmpAQrUfiL44R5hRMZub0G/view.
 
   ## Credits
   The Badges are from https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba.
